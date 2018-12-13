@@ -1,4 +1,3 @@
-// add your Reference_Variable_If code here
 //integer variabe
 int X= 75;
 int Y= 75;
